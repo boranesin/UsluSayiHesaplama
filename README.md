@@ -1,1 +1,1 @@
-# UsluSayiHesaplama
+# Uslu Sayi Hesaplama
